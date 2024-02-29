@@ -1,5 +1,5 @@
 # MMF-LVINS
-[Multi-Modal Features and Accurate Place Recognition with Robust Optimization for Lidar-Visual-Inertial SLAM](https://ieeexplore.ieee.org/document/10445759)
+[Multi-Modal Features and Accurate Place Recognition with Robust Optimization for Lidar-Visual-Inertial SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445759)
 ```
 @ARTICLE{10445759,
   author={Zhao, Xiongwei and Wen, Congcong and Prakhya, Sai Manoj and Yin, Hongpei and Zhou, Rundong and Sun, Yijiao and Xu, Jie and Bai, Haojie and Wang, Yang},
