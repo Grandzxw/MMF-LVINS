@@ -1,6 +1,12 @@
 # MMF-LVINS
 [Multi-Modal Features and Accurate Place Recognition with Robust Optimization for Lidar-Visual-Inertial SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445759)
 
+
+## Acknowledgements
+This work is based on [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM), [VIN-MOMO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), [LILI-OM](https://github.com/KIT-ISAS/lili-om) and [Scancontext](https://github.com/gisbi-kim/scancontext_tro). Thanks for their great work!
+
+
+## Citation
 ```
 @ARTICLE{10445759,
   author={Zhao, Xiongwei and Wen, Congcong and Prakhya, Sai Manoj and Yin, Hongpei and Zhou, Rundong and Sun, Yijiao and Xu, Jie and Bai, Haojie and Wang, Yang},
