@@ -3,7 +3,7 @@
 
 
 ## Acknowledgements
-This work is based on [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM), [VIN-MOMO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), [LILI-OM](https://github.com/KIT-ISAS/lili-om) and [Scancontext](https://github.com/gisbi-kim/scancontext_tro). Thanks for their great work!
+This work is based on [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM), [VINS-MOMO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), [LILI-OM](https://github.com/KIT-ISAS/lili-om) and [Scancontext](https://github.com/gisbi-kim/scancontext_tro). Thanks for their great work!
 
 
 ## Citation
